@@ -1,6 +1,6 @@
 # Unit 1: HTML Intro
 |Lesson|Minutes|Objectives <br> *Coders will be able to ...*||Assignment Snapshot|Additional Resources|
-|:-------:|:-------:|:-------|:-------|
+|:-------:|:-------:|:-------|:-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1HzOopTuIW7pD7YcoOloa199e1A_aq3DbAlkx8pePZvA/edit?usp=sharing)|45| Use correct syntax to create an an opening and a closing HTML tag for simple HTML elements. |N/A|
 |[**2**](https://docs.google.com/presentation/d/1wRO99vG8nxiCPqQ_zUtmuttX5FDvQBkBAmWkUn4OQAA/edit?usp=sharing)|45|Use correct syntax to create simple HTML elements. |[HTML Madlibs](https://popcode.org/?gist=d80474fba512f1125127ace3120834ae)|
 |[**3**](https://docs.google.com/presentation/d/1y6ToeKgovy-t439IlZ5Kb2Yk782SifwPEc33i7054AE/edit?usp=sharing)|45|Nest HTML elements including ordered and unordered lists.|N/A|
