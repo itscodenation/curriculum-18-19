@@ -3,11 +3,6 @@
 ## Overview
 On this PD day, coders will learn the basics of professional communication and be equipped with the necessary tools for success in their advanced class including calendar skills, an introduction to slack, and receiving feedback.
 
-## Important Links
-| Student Contract | 
-|:-------:|
-|[Student Contract]() |  
-
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|
 |:-------:|:-------|
