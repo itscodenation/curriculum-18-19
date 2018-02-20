@@ -13,8 +13,8 @@
 | [**3: Pig Latinizer**](units/unit3) | 3 | |
 | [**4: Playlist**](units/unit4) | 3 |  |  |
 | [**Midyear Review**](units/mid) | 1 |  |  |
-| [**6: Giphy App**](units/unit6) | 3 |  |  |
-| [**7: Client Project**](units/unit7)| 4 |  |  |
+| [**5: Giphy App**](units/unit6) | 3 |  |  |
+| [**6: Client Project**](units/unit7)| 4 |  |  |
 | [**EOY Wrap Up**](units/eoy) | 2 |  |  |
 ----
 
