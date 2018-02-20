@@ -22,9 +22,10 @@
 
 | Date  | Session | Overview|
 |-------|-------|------|
-|  |[**Professional Branding**](pd/2-branding) |   | 
-|  |[**Internship Bootcamp**](pd/4-bootcamp) |  | 
-|  |[**Mid-Internship Training**](pd/5-financialliteracy) | A | 
+|  |[**Advanced Class Launch**](pd/launch) |   | 
+|  |[**Professional Branding**](pd/branding) |   | 
+|  |[**Internship Bootcamp**](pd/bootcamp) |  | 
+|  |[**Mid-Internship Training**](pd/midinternship) | A | 
 
 ----
 ## Wiki
