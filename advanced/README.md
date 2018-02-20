@@ -8,13 +8,13 @@
 | Unit  | Sessions | Skills | Overview|
 |-------|:-------:|------|------|
 | [**0: Welcome - Portfolio**](units/unit0) | 3 |  |  |
-| [**1: Mock Client **](units/unit1) | 3 |  |  |
+| [**1: Mock Client**](units/unit1) | 3 |  |  |
 | [**2: Rock, Paper, Scissors**](units/unit2) | 3 |  |  |
 | [**3: Pig Latinizer**](units/unit3) | 3 | |
 | [**4: Playlist**](units/unit4) | 3 |  |  |
 | [**Midyear Review**](units/mid) | 1 |  |  |
 | [**6: Giphy App**](units/unit6) | 3 |  |  |
-| [**7: Client Project **](units/unit7)| 3 |  |  |
+| [**7: Client Project**](units/unit7)| 3 |  |  |
 | [**EOY Wrap Up**](units/eoy) | 2 |  |  |
 ----
 
