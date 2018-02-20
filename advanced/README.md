@@ -14,7 +14,7 @@
 | [**4: Playlist**](units/unit4) | 3 |  |  |
 | [**Midyear Review**](units/mid) | 1 |  |  |
 | [**6: Giphy App**](units/unit6) | 3 |  |  |
-| [**7: Client Project**](units/unit7)| 3 |  |  |
+| [**7: Client Project**](units/unit7)| 4 |  |  |
 | [**EOY Wrap Up**](units/eoy) | 2 |  |  |
 ----
 
