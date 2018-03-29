@@ -7,11 +7,12 @@
 
 | Unit  | Sessions | Skills | Overview|
 |-------|:-------:|------|------|
-| [**0: Welcome - Portfolio**](units/unit0) | 3 |  |  |
+| [**0: Welcome**](units/unit0) | 3 |  |  |
 | [**1: Mock Client**](units/unit1) | 3 |  |  |
-| [**Checkin Day 1**]() | 1 |  |  |
 | [**2: Rock, Paper, Scissors**](units/unit2) | 3 |  |  |
-| [**3: Pig Latinizer**](units/unit3) | 3 | |
+| [**Checkin Day 1**]() | 1 |  |  |
+| [**3: Calculator**](units/unit3) | 3 | |
+| [**4: Pig Latinizer**](units/unit3) | 3 | |
 | [**Checkin Day 2**]() | 1 |  |  |
 | [**4: Playlist**](units/unit4) | 3 |  |  |
 | [**5: Giphy App**](units/unit6) | 3 |  |  |
