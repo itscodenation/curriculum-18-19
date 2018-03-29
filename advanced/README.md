@@ -7,7 +7,7 @@
 
 | Unit  | Sessions | Skills | Overview|
 |-------|:-------:|------|------|
-| [**0: Welcome**](units/unit0) | 3 |  |  |
+| [**0: Welcome**](units/unit0) | 1 |  |  |
 | [**1: Mock Client**](units/unit1) | 3 |  |  |
 | [**2: Rock, Paper, Scissors**](units/unit2) | 3 |  |  |
 | [**Checkin Day 1**]() | 1 |  |  |
