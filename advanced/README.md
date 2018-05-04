@@ -1,5 +1,4 @@
 # Advanced Curriculum, 18-19
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoYjRk6tqJHI5Y1ELjOZ7tiYj58dmoIBEeUaXK5ciIdljIg/viewform">Submit Your Feedback</a> || <a href="">Contribute to the Wiki</a> </h3>
 
 ## Pacing Calendar
 ![Imgur]() [Pacing Calendar Image Here]
@@ -32,6 +31,9 @@
 |  |[**Mid-Internship Training**](pd/midinternship) |  | 
 
 ----
+
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoYjRk6tqJHI5Y1ELjOZ7tiYj58dmoIBEeUaXK5ciIdljIg/viewform">Submit Your Feedback</a> || <a href="">Contribute to the Wiki</a> </h3>
+
 **Curriculum content contributed by**: Ali Hoefinger, Becky Segal, Matthew Gerrior, Andrew Ingraham, Xavi Ramirez, Gilbert Ghang, Allie Jones, Ritu Biala, Elizabeth Dowd and Sylvia Dolmo
 
 For more information about ScriptEd, please visit us at [scripted.org](https://www.scripted.org). 
