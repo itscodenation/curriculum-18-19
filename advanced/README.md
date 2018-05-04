@@ -28,7 +28,7 @@
 |  |[**Advanced Class Launch**](pd/launch) |   | 
 |  |[**Professional Branding**](pd/branding) |   | 
 |  |[**Internship Bootcamp**](pd/bootcamp) |  | 
-|  |[**Mid-Internship Training**](pd/midinternship) | A | 
+|  |[**Mid-Internship Training**](pd/midinternship) |  | 
 
 ----
 ## Wiki
