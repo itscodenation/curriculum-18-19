@@ -31,11 +31,6 @@
 |  |[**Mid-Internship Training**](pd/midinternship) |  | 
 
 ----
-## Wiki
-
-* Click [here](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced) for additional resources and activities.
-
-----
 **Curriculum content contributed by**: Ali Hoefinger, Becky Segal, Matthew Gerrior, Andrew Ingraham, Xavi Ramirez, Gilbert Ghang, Allie Jones, Ritu Biala, Elizabeth Dowd and Sylvia Dolmo
 
 For more information about ScriptEd, please visit us at [scripted.org](https://www.scripted.org). 
