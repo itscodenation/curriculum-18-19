@@ -23,12 +23,12 @@
 
 ## Professional Development Days
 
-| Date  | Session | Overview|
-|-------|-------|------|
-|  |[**Advanced Class Launch**](pd/launch) |   | 
-|  |[**Professional Branding**](pd/branding) |   | 
-|  |[**Internship Bootcamp**](pd/bootcamp) |  | 
-|  |[**Mid-Internship Training**](pd/midinternship) |  | 
+| Session  | Overview|
+|-------|-------|
+|[**Advanced Class Launch**](pd/launch) |   |
+|[**Professional Branding**](pd/branding) |   |
+|[**Internship Bootcamp**](pd/bootcamp) |  | 
+|[**Mid-Internship Training**](pd/midinternship) |  | 
 
 ----
 
