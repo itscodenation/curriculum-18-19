@@ -3,6 +3,7 @@
 ## Pacing Calendar
 ![Imgur]() [Pacing Calendar Image Here]
 
+----
 ## Scope and Sequence
 
 | Unit  | Sessions | Overview|
