@@ -6,19 +6,19 @@
 ## Scope and Sequence
 
 | Unit  | Sessions | Overview|
-|-------|:-------:|------|
-| [**0: Welcome**](units/unit0) | 1 | In this unit, coders will get to know their company, their instructors and their classmates.    Coders will review imporant routines, procedures and documents. Coders will complete a beginning of the year challenge to review HTML, CSS, Javascript from foundations. |
-| [**1: Mock Client**](units/unit1) | 3 |  |
-| [**2: Rock, Paper, Scissors**](units/unit2) | 3 |  |
-| [**Skills Day 1**]() | 1 |  |
+|:-------|:-------:|------|
+| [**0:Welcome**](units/unit0) | 1 | <li>In this unit, coders will get to know their company, their instructors and their classmates.    Coders will review imporant routines, procedures and documents. Coders will complete a beginning of the year challenge to review HTML, CSS, Javascript from foundations.</li> |
+| [**1: MockClient**](units/unit1) | 3 |  |
+| [**2: RockPaperScissors**](units/unit2) | 3 |  |
+| [**Skills Day**]() | 1 |  |
 | [**3: Functions**](units/unit3) | 3 | |
-| [**4: Pig Latinizer**](units/unit3) | 3 | |
-| [**Checkin Day 2**]() | 1 |  |
-| [**5: Choose Your Own Adventure**](units/unit4) | 3 |  |
-| [**6: Giphy App**](units/unit6) | 3 |  |
-| [**Skills Day 3**]() | 1 |  |
-| [**7: Client Project**](units/unit7)| 4 |  |
-| [**EOY Wrap Up**](units/eoy) | 2 |  |
+| [**4: PigLatinizer**](units/unit3) | 3 | |
+| [**Skills Day**]() | 1 |  |
+| [**5: ChooseYourOwnAdventure**](units/unit4) | 3 |  |
+| [**6: GiphyApp**](units/unit6) | 3 |  |
+| [**Skills Day**]() | 1 |  |
+| [**7: ClientProject**](units/unit7)| 4 |  |
+| [**EOYWrapUp**](units/eoy) | 2 |  |
 ----
 
 ## Professional Development Days
