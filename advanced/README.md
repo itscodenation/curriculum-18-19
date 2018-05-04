@@ -5,20 +5,20 @@
 
 ## Scope and Sequence
 
-| Unit  | Sessions | Skills | Overview|
-|-------|:-------:|------|------|
-| [**0: Welcome**](units/unit0) | 1 |  |  |
-| [**1: Mock Client**](units/unit1) | 3 |  |  |
-| [**2: Rock, Paper, Scissors**](units/unit2) | 3 |  |  |
-| [**Checkin Day 1**]() | 1 |  |  |
-| [**3: Calculator**](units/unit3) | 3 | |
+| Unit  | Sessions | Overview|
+|-------|:-------:|------|
+| [**0: Welcome**](units/unit0) | 1 | In this unit, coders will get to know their company, their instructors and their classmates.    Coders will review imporant routines, procedures and documents. Coders will complete a beginning of the year challenge to review HTML, CSS, Javascript from foundations. |
+| [**1: Mock Client**](units/unit1) | 3 |  |
+| [**2: Rock, Paper, Scissors**](units/unit2) | 3 |  |
+| [**Skills Day 1**]() | 1 |  |
+| [**3: Functions**](units/unit3) | 3 | |
 | [**4: Pig Latinizer**](units/unit3) | 3 | |
-| [**Checkin Day 2**]() | 1 |  |  |
-| [**4: Playlist**](units/unit4) | 3 |  |  |
-| [**5: Giphy App**](units/unit6) | 3 |  |  |
-| [**Checkin Day 3**]() | 1 |  |  |
-| [**6: Client Project**](units/unit7)| 4 |  |  |
-| [**EOY Wrap Up**](units/eoy) | 2 |  |  |
+| [**Checkin Day 2**]() | 1 |  |
+| [**5: Choose Your Own Adventure**](units/unit4) | 3 |  |
+| [**6: Giphy App**](units/unit6) | 3 |  |
+| [**Skills Day 3**]() | 1 |  |
+| [**7: Client Project**](units/unit7)| 4 |  |
+| [**EOY Wrap Up**](units/eoy) | 2 |  |
 ----
 
 ## Professional Development Days
@@ -36,7 +36,7 @@
 * Click [here](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2.-Advanced) for additional resources and activities.
 
 ----
-**Curriculum content contributed by**: Ali Hoefinger, Becky Segal, Matthew Gerrior, Andrew Ingraham, Xavi Ramirez, Gilbert Ghang, Allie Jones, Ritu Biala, and Sylvia Dolmo
+**Curriculum content contributed by**: Ali Hoefinger, Becky Segal, Matthew Gerrior, Andrew Ingraham, Xavi Ramirez, Gilbert Ghang, Allie Jones, Ritu Biala, Elizabeth Dowd and Sylvia Dolmo
 
 For more information about ScriptEd, please visit us at [scripted.org](https://www.scripted.org). 
 <br>
