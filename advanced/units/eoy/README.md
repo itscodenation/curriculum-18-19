@@ -3,11 +3,6 @@
 ## Overview
 Coders will close out the year with EOY Hackerrank, Survey and Celebration
 
-## Important Links
-| Review | Hacker Rank |
-|:-------:|:-------:|
-|[Review]()|[Challenge]() |
-
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|Homework|
 |:-------:|-------|:-------|
