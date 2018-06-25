@@ -25,7 +25,7 @@
 
 | Session  | Overview|
 |-------|-------|
-|[**Advanced Class Launch**](pd/launch) |   |
+|[**Summer Dev Lab**](pd/launch) |   |
 |[**Professional Branding**](pd/branding) |   |
 |[**Internship Bootcamp**](pd/bootcamp) |  | 
 |[**Mid-Internship Training**](pd/midinternship) |  | 
