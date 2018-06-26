@@ -25,7 +25,7 @@
 
 ----
 
-**Curriculum content contributed by**: Ali Hoefinger, Becky Segal, Matthew Gerrior, Andrew Ingraham, Xavi Ramirez, Gilbert Ghang, Allie Jones, Ritu Biala, Elizabeth Dowd and Sylvia Dolmo
+**Curriculum content contributed by**: Ali Hoefinger, Becky Segal, Matthew Gerrior, Andrew Ingraham, Xavi Ramirez, Gilbert Ghang, Allie Jones, Elizabeth Dowd and Sylvia Dolmo
 
 For more information about ScriptEd, please visit us at [scripted.org](https://www.scripted.org). 
 <br>
