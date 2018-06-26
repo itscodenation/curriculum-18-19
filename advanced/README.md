@@ -8,7 +8,7 @@
 | Unit  | Sessions | Overview|
 |:-------|:-------:|------|
 | [**0: Welcome**](units/unit0) | 1 | In this unit, coders will get to know their company, their instructors and their classmates.    Coders will review imporant routines, procedures and documents. Coders will complete a beginning of the year challenge to review HTML, CSS, Javascript from the Foundations course.|
-| [**1: FanPage**](units/unit1) | 3 | Lorem ipsum dolor sit amet, sea dicunt antiopam an. Ei regione fuisset blandit per, his in ullum graeco iriure. Pro et fastidii expetenda euripidis, ex falli honestatis mel. Eos te legendos persecuti, ne nullam officiis vim.|
+| [**1: FanPage**](units/unit1) | 3 | In this unit, coders will build a fan page for their favorite book, TV show, artist, movie etc. Coders will use CSS to make sure that their pages are designed creatively.|
 | [**2: RockPaperScissors**](units/unit2) | 3 | Lorem ipsum dolor sit amet, sea dicunt antiopam an. Ei regione fuisset blandit per, his in ullum graeco iriure. Pro et fastidii expetenda euripidis, ex falli honestatis mel. Eos te legendos persecuti, ne nullam officiis vim.|
 | *[**Skills Day 1**](skillsdays/skillsday1)* | 1 | Lorem ipsum dolor sit amet, sea dicunt antiopam an. Ei regione fuisset blandit per, his in ullum graeco iriure. Pro et fastidii expetenda euripidis, ex falli honestatis mel. Eos te legendos persecuti, ne nullam officiis vim.|
 | [**3: Functions**](units/unit3) | 3 |Lorem ipsum dolor sit amet, sea dicunt antiopam an. Ei regione fuisset blandit per, his in ullum graeco iriure. Pro et fastidii expetenda euripidis, ex falli honestatis mel. Eos te legendos persecuti, ne nullam officiis vim. |
