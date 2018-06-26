@@ -1,6 +1,7 @@
 # Unit 1:
 
 ## Overview
+In this unit, coders will build a fan page for their favorite book, TV show, artist, movie etc. Coders will use CSS to make sure that their pages are designed creatively.
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|
