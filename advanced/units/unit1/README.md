@@ -6,7 +6,7 @@ In this unit, coders will build a fan page for their favorite book, TV show, art
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|
 |:-------:|-------|
-|[**1**](https://docs.google.com/presentation/d/1YmGqsnj57LDqadNWVj-zUC7thYDIjLBn_OZWC9tgXUM/edit#slide=id.g1e220fa94a_0_30)| <li>style a page using CSS properties and values.</li> <li>use class attributes to style specific elements.</li> <li>add commit and push changes to a repository.</li> <li>host their projects on github using gh-pages. </li>|
+|[**1**](https://docs.google.com/presentation/d/1YmGqsnj57LDqadNWVj-zUC7thYDIjLBn_OZWC9tgXUM/edit#slide=id.g1e220fa94a_0_30)| <li>Style a page using CSS properties and values.</li> <li>Use class attributes to style specific elements.</li> <li>Add commit and push changes to a repository.</li> <li>Host their projects on github using gh-pages. </li>|
 |[**2**]()| <li> </li> <li> </li> |
 |[**3**]()| <li> </li> <li> </li> |
 
