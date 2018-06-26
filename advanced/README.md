@@ -21,17 +21,6 @@
 | *[**EOY Wrap Up**](units/eoy)* | 2 | Lorem ipsum dolor sit amet, sea dicunt antiopam an. Ei regione fuisset blandit per, his in ullum graeco iriure. Pro et fastidii expetenda euripidis, ex falli honestatis mel. Eos te legendos persecuti, ne nullam officiis vim. |
 ----
 
-## Professional Development Days
-
-| Session  | Overview|
-|-------|-------|
-|[**Summer Dev Lab**](pd/launch) |   |
-|[**Professional Branding**](pd/branding) |   |
-|[**Internship Bootcamp**](pd/bootcamp) |  | 
-|[**Mid-Internship Training**](pd/midinternship) |  | 
-
-----
-
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoYjRk6tqJHI5Y1ELjOZ7tiYj58dmoIBEeUaXK5ciIdljIg/viewform">Submit Your Feedback</a> || <a href="">Contribute to the Wiki</a> </h3>
 
 ----
