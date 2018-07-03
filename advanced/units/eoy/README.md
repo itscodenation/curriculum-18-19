@@ -1,7 +1,7 @@
 # End of Year
 
 ## Overview
-Coders will close out the year with EOY Hackerrank, Survey and Celebration
+In this unit, coders will close out the year with a culminating HackerRank challenge, End-of-Year Student Survey and presentations of their Client Projects.
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|
