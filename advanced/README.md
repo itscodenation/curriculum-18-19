@@ -17,7 +17,7 @@
 | [**5: ChooseYourOwnAdventure**](units/unit5) | 3 | Lorem ipsum dolor sit amet, sea dicunt antiopam an. Ei regione fuisset blandit per, his in ullum graeco iriure. Pro et fastidii expetenda euripidis, ex falli honestatis mel. Eos te legendos persecuti, ne nullam officiis vim. |
 | [**6: GiphyApp**](units/unit6) | 3 | Lorem ipsum dolor sit amet, sea dicunt antiopam an. Ei regione fuisset blandit per, his in ullum graeco iriure. Pro et fastidii expetenda euripidis, ex falli honestatis mel. Eos te legendos persecuti, ne nullam officiis vim. |
 | *[**Skills Day 3**](skillsdays/skillsday3)* | 1 | Lorem ipsum dolor sit amet, sea dicunt antiopam an. Ei regione fuisset blandit per, his in ullum graeco iriure. Pro et fastidii expetenda euripidis, ex falli honestatis mel. Eos te legendos persecuti, ne nullam officiis vim. |
-| [**7: ClientProject**](units/unit7)| 4 | Lorem ipsum dolor sit amet, sea dicunt antiopam an. Ei regione fuisset blandit per, his in ullum graeco iriure. Pro et fastidii expetenda euripidis, ex falli honestatis mel. Eos te legendos persecuti, ne nullam officiis vim. |
+| [**7: ClientProject**](units/unit7)| 4 | In this unit, coders will work in pairs to build a project for a client based on a given set of APIs. This is a culminating project that incorporates all of the skills that have been taught in the course and is intended to highlight some important aspects of goal setting and project management. |
 | *[**EOY Wrap Up**](units/eoy)* | 2 | In this unit, coders will close out the year with a culminating HackerRank challenge, End-of-Year Student Survey and presentations of their Client Projects.|
 ----
 
