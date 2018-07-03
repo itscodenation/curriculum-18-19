@@ -18,7 +18,7 @@
 | [**6: GiphyApp**](units/unit6) | 3 | Lorem ipsum dolor sit amet, sea dicunt antiopam an. Ei regione fuisset blandit per, his in ullum graeco iriure. Pro et fastidii expetenda euripidis, ex falli honestatis mel. Eos te legendos persecuti, ne nullam officiis vim. |
 | *[**Skills Day 3**](skillsdays/skillsday3)* | 1 | Lorem ipsum dolor sit amet, sea dicunt antiopam an. Ei regione fuisset blandit per, his in ullum graeco iriure. Pro et fastidii expetenda euripidis, ex falli honestatis mel. Eos te legendos persecuti, ne nullam officiis vim. |
 | [**7: ClientProject**](units/unit7)| 4 | Lorem ipsum dolor sit amet, sea dicunt antiopam an. Ei regione fuisset blandit per, his in ullum graeco iriure. Pro et fastidii expetenda euripidis, ex falli honestatis mel. Eos te legendos persecuti, ne nullam officiis vim. |
-| *[**EOY Wrap Up**](units/eoy)* | 2 | Lorem ipsum dolor sit amet, sea dicunt antiopam an. Ei regione fuisset blandit per, his in ullum graeco iriure. Pro et fastidii expetenda euripidis, ex falli honestatis mel. Eos te legendos persecuti, ne nullam officiis vim. |
+| *[**EOY Wrap Up**](units/eoy)* | 2 | In this unit, coders will close out the year with a culminating HackerRank challenge, End-of-Year Student Survey and presentations of their Client Projects.|
 ----
 
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum18-19/wiki">Contribute to the Wiki</a> </h3>
