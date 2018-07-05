@@ -5,9 +5,9 @@
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|
 |:-------:|-------|
-|[**1**]()| <li> </li> <li> </li> |
-|[**2**]()| <li> </li> <li> </li> |
-|[**3**]()| <li> </li> <li> </li> |
-|[**4**]()| <li> </li> <li> </li> |
+|[**1**](https://docs.google.com/presentation/d/1ASrTjghpvz6mT6GEDOsT-RCz2NcvuU28EoQZOqeafjc/edit#slide=id.g3d4bf58eac_0_89)| <li>Set-up and plan their Client Project </li>|
+|[**2**](https://docs.google.com/presentation/d/18iIqnObferZliT45QoCtGQ4jZPYpKPBaRXXeheDYPbE/edit#slide=id.g3d55f991bd_0_0)| <li> Plan and develop their Client Project.</li> |
+|[**3**]()| <li> Develop their Client Project. </li>|
+|[**4**]()| <li> Finish their Client Project and prepare for their project presentations.</li> |
 
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoYjRk6tqJHI5Y1ELjOZ7tiYj58dmoIBEeUaXK5ciIdljIg/viewform">Submit Your Feedback</a> || <a href="">Contribute to the Wiki</a> </h3>
