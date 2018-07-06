@@ -5,8 +5,8 @@
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|
 |:-------:|-------|
-|[**1**](https://docs.google.com/presentation/d/1rfswrbBpZD1nXo_uV4bYfzTFNh7XF4q3QfeJ13Xm2Eg/edit#slide=id.g1e220fa94a_0_26)| <li>Coders will be able to use a jQuery click handler to display the value of an input. </li> | |
-|[**2**]()| <li> </li> <li> </li> | |
+|[**1**](https://docs.google.com/presentation/d/1rfswrbBpZD1nXo_uV4bYfzTFNh7XF4q3QfeJ13Xm2Eg/edit#slide=id.g1e220fa94a_0_26)| <li>Use a jQuery click handler to display the value of an input. </li> | |
+|[**2**](https://docs.google.com/presentation/d/1GHEmqwbVVqpGnViGrIgIA4S_fJWNNfZdoOjNVixHuuQ/edit#slide=id.g2f77ab75b5_0_0)| <li>Declare a variable. </li> <li> Assign a value to a variable.</li> <li> Generate a random number between 0 and 1 using Math.random().</li> <li>Write a simple conditional statement </li> | |
 |[**3**]()| <li> </li> <li> </li> | |
 
 ----
