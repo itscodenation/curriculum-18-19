@@ -1,9 +1,9 @@
 # Unit 5:
 
 ## Overview
-Note: Unlike all other units, this unit is meant to only cover 2 class sessions. 
-Day 1 - In this session, students are introduced to objects through Popcode exercises, and a Jeopardy game. You may not get all the way through Jeopardy.  Make sure to stick to your timing on independent practice in order to get through all the material. 
-Day 2 - In this session, students are introduced to the unit project. After the introduction, students will spend time planning their project and then spend the rest of their time completing it. 
+**Note: Unlike all other units, this unit is meant to only cover 2 class sessions.**
+- Day 1 - In this session, students are introduced to objects through Popcode exercises, and a Jeopardy game. You may not get all the way through Jeopardy.  Make sure to stick to your timing on independent practice in order to get through all the material.
+- Day 2 - In this session, students are introduced to the unit project. After the introduction, students will spend time planning their project and then spend the rest of their time completing it. 
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|
