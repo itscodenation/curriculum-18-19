@@ -10,6 +10,6 @@ The Professional Skills days are a time when students are able to demonstrate th
 |[**1**](https://docs.google.com/presentation/d/19BxbT0Ul2OZMZ1wa7e3bKHO_YEZAnyrQJi8S2daZsww/edit#slide=id.g3748a0c7e9_0_0)| <li> Present a technical project. </li> <li> Complete a whiteboarding activity.</li> |
 
 ----
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoYjRk6tqJHI5Y1ELjOZ7tiYj58dmoIBEeUaXK5ciIdljIg/viewform">Submit Your Feedback</a> || <a href="">Contribute to the Wiki</a> </h3>
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum18-19/wiki">Contribute to the Wiki</a> </h3>
 
 ----
