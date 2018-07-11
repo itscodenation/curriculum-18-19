@@ -12,6 +12,6 @@
 |[**2**](https://docs.google.com/presentation/d/13iK91JwZ-be-LOzmeY5ODTwvqIMXah6MUBmwDzE5N9o/edit#slide=id.g3791f51075_2_72)| <li> Access elements from nested objects </li> <li> Use JavaScript objects to build a Choose Your Own Adventure game </li> |
 
 ----
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoYjRk6tqJHI5Y1ELjOZ7tiYj58dmoIBEeUaXK5ciIdljIg/viewform">Submit Your Feedback</a> || <a href="">Contribute to the Wiki</a> </h3>
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum18-19/wiki">Contribute to the Wiki</a> </h3>
 
 ----
