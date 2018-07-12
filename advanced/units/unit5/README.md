@@ -8,7 +8,7 @@
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|
 |:-------:|-------|
-|[**1**](https://docs.google.com/presentation/d/1SXTbriRX3TsAuoY3rufQ7jehLgV9p4b29vlIfltko7Y/edit#slide=id.g3afd79e3e3_0_182)| <li> Use JavaScript to create, access, and update an object </li> <li> </li> |
+|[**1**](https://docs.google.com/presentation/d/1SXTbriRX3TsAuoY3rufQ7jehLgV9p4b29vlIfltko7Y/edit#slide=id.g3afd79e3e3_0_182)| <li> Use JavaScript to create, access, and update an object </li>|
 |[**2**](https://docs.google.com/presentation/d/13iK91JwZ-be-LOzmeY5ODTwvqIMXah6MUBmwDzE5N9o/edit#slide=id.g3791f51075_2_72)| <li> Access elements from nested objects </li> <li> Use JavaScript objects to build a Choose Your Own Adventure game </li> |
 
 ----
