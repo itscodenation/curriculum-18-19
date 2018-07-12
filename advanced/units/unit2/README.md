@@ -1,6 +1,7 @@
 # Unit 2:
 
 ## Overview
+In this unit, coders will create a Rock, Paper, Scissors game. The game will take in a user choice, generate a computer choice, and display the winner to the screen. To create this project, coders will use jQuery to take user input, use the Math Library to pick a random computer choice, and use conditionals to determine the winner.
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|
