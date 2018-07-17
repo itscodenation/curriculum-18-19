@@ -1,4 +1,4 @@
-# Unit 1: HTML Intro
+# Unit 1: HTML
 |Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Assignment Snapshot|Additional Resources|
 |:-------:|:-------:|:-------|:-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1iKh3Rg0uAVKg_g81fbAvkgjok9AZ_mH8TKibdUU8EB0/edit)|45| Use correct syntax to create an an opening and a closing HTML tag for simple HTML elements. |[Paragraphs Debate](https://bit.ly/u1l1assignment)|N/A|
