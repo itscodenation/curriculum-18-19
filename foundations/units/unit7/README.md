@@ -1,5 +1,4 @@
-# Unit 7: Variables, Value Types, Operators, input.val (jQuery)
-
+# Unit 7: Conditonals
 
 
 
