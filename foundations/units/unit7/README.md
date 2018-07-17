@@ -1,4 +1,4 @@
-# Unit 7: Conditonals
+# Unit 7: Conditionals
 
 
 
