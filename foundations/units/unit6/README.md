@@ -1,4 +1,4 @@
-# Unit 6: Intro to JavaScript Functions
+# Unit 6: Variables, Value Types, Operators, input.val
 
 
 
