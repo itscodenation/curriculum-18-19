@@ -6,7 +6,7 @@
 |Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1MJwu9oNQTHt25dDAhX98vEqWfbRHs1hmcLyOUt1CDWQ/edit#slide=id.g1d0118cf2a_0_406)|45| Create basic conditional statements. |[Kim and Kayne MadLibs](https://gist.github.com/Bijesse/fc6d7f083812193edde5ac3f9865d11a)|
-|[**2**](https://docs.google.com/presentation/d/1CMJXDk4ebwcrw5oRhlUvpDCjhbj-gMBArLohzSf_2uY/edit?usp=sharing)|45| Create conditional statements with multiple conditions using else-if. |N/A|
+|[**2**](https://docs.google.com/presentation/d/15eZYA0zMnIOaEWeRVF2T4MH21yLGP0oqYP0SsKc4M3s/edit#slide=id.g1d0118cf2a_0_406)|45| Create conditional statements with multiple conditions using else-if. |N/A|
 |[**3**](https://docs.google.com/presentation/d/1ykoLyyjwiFGwZRmQMLgV_yJz-OEEA1gNxM49x4fDqIM/edit?usp=sharing)|45| Identify, evaluate, and construct compound conditional statements |N/A|
 |[**Project 1**](https://docs.google.com/presentation/d/1VA3v0VeS-sKI9GqFkUn1OKXh2t_8oQkIfom28DNb77Y/edit?usp=sharing)|45x2|Use conditional statements to create a character quiz.|[Input, values and events (Advanced)](https://popcode.org/?gist=784f790aa8c5c269cd23fa030b44c61c)|
 
