@@ -1,4 +1,4 @@
-# Unit 8: JavaScript Functions Part 2
+# Unit 8: Conditionals
 
 
 
