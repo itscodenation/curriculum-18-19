@@ -1,11 +1,12 @@
-# Unit 9: Functions
+# Unit 9: Arrays and Loops
 
 |Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
-|[**1**](https://docs.google.com/presentation/d/1sHwBT7XWtX9y7iGeJzEtGmbaRMySW-Z1OlQ7T16cNPw/edit#slide=id.g3d072d6db7_0_0)|45| Use functions to break long sections of code into smaller, easier to understand pieces.  |N/A|
-|[**2**](https://docs.google.com/presentation/d/1d56mDl5ejCwjV2olyUZb744qarMwuF1tWK8OueiSHl4/edit#slide=id.g3d07f62913_0_0)|45| Write their own function declarations to improve code organization. |[If/Else Code Modification Practice](https://popcode.org/?gist=a9c3336d96e106394037e522ecc41fa0)|
-|[**3**](https://docs.google.com/presentation/d/1ugVlFOojy0CjSVVrRvItJw2oK5GUIBQ0FChLSWCyDnk/edit#slide=id.g3d060571d2_0_0)|45| Use functions to reduce duplication in code. |[User/password login and greeting](http://jsbin.com/turazo/edit?html,js,output)|
-|[**Project 1**](https://docs.google.com/presentation/d/1N0r4FY5V_f8-tNTtJRKbQBG05O4g8QfmdVtZHEoTCPY/edit?usp=sharing)|45| Create an interactive webpage using different conditional statements.|[Password Guesser](https://docs.google.com/presentation/d/1MsaeSb4gYRNCV_L0Au_ovBnECjpqh4TxsBoYBPswzHw/edit#slide=id.g1b32623398_0_0)|
+|[**1**](https://docs.google.com/presentation/d/1OV5SnWolQC3m48xlKkGvIH9zm7EULHjmvE5BoxtZrLo/edit#slide=id.g3c033d7c63_0_0)|45| Create an array and retrieve an array element using the index.  |N/A|
+|[**2**](https://docs.google.com/presentation/d/1AJEv5aRDvINIPo93EcPy35bXg98fC9ZzSDKflD2HLJ4/edit#slide=id.g1d0118cf2a_0_406)|45| Create forEach loops in JavaScript in order to iterate over an array. |[If/Else Code Modification Practice](https://popcode.org/?gist=a9c3336d96e106394037e522ecc41fa0)|
+|[**3**](https://docs.google.com/presentation/d/1KCRiROnCJz9SVlzYxuILaqeGPYgKgoHyMw61zm2ARBQ/edit#slide=id.g24c7339d71_0_167)|45| Add elements to an array by using .push() and get the number of elements in the array by using .length. |[User/password login and greeting](http://jsbin.com/turazo/edit?html,js,output)|
+|[**4**](https://docs.google.com/presentation/d/1S4ibPtGncmFvqCNB7uifWLfJTlLxpLEqJfva3XTFgfg/edit#slide=id.g1d0118cf2a_0_406)|45| Iterate over the items in an array using a for loop. |[User/password login and greeting](http://jsbin.com/turazo/edit?html,js,output)|
+|[**Project 1**](https://docs.google.com/presentation/d/1lUVkzvFgTDvZ9FdykQOODJEryiAm6HGFyebt5KYRUWU/edit#slide=id.g1d0118cf2a_0_406)|45| Create an interactive webpage using different conditional statements.|[Password Guesser](https://docs.google.com/presentation/d/1MsaeSb4gYRNCV_L0Au_ovBnECjpqh4TxsBoYBPswzHw/edit#slide=id.g1b32623398_0_0)|
 
 
 
