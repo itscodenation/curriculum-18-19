@@ -10,5 +10,7 @@
 |[**3**](https://docs.google.com/presentation/d/1K88zeTj9N0IRMf5URESoO9ycrEjH7QXJtFInUVmvnh0/edit#slide=id.g1d0118cf2a_0_406)|45| Use input.val() to retrieve a value from an input field. |N/A|
 |[**Project 1**](https://docs.google.com/presentation/d/1cusYVTmtEv81g1CRkbVkroAghlbfdJN6iCqLUDAaBMQ/edit#slide=id.g1b32623398_0_0)|45x2|Use variables and operators to create a website that predicts the future.|[Input, values and events (Advanced)](https://popcode.org/?gist=784f790aa8c5c269cd23fa030b44c61c)|
 
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfx0wkLyw_jSOhWR2yY8GTR8TV2NXYZc40us7aPHnl9bO6WAQ/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/1.-Foundations#unit-7-variables-value-types-operators-inputval">Contribute to the Wiki</a></h3> 
+----
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum18-19/wiki">Contribute to the Wiki</a> </h3>
 
+----
