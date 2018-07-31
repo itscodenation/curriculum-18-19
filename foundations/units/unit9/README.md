@@ -1,15 +1,16 @@
-# Unit 9: Arrays and Loops
+# Unit 9: Functions
+
+
+
 
 |Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
-|[**1**](https://docs.google.com/presentation/d/1OV5SnWolQC3m48xlKkGvIH9zm7EULHjmvE5BoxtZrLo/edit#slide=id.g3c033d7c63_0_0)|45| Create an array and retrieve an array element using the index.  |N/A|
-|[**2**](https://docs.google.com/presentation/d/1AJEv5aRDvINIPo93EcPy35bXg98fC9ZzSDKflD2HLJ4/edit#slide=id.g1d0118cf2a_0_406)|45| Create forEach loops in JavaScript in order to iterate over an array. |[If/Else Code Modification Practice](https://popcode.org/?gist=a9c3336d96e106394037e522ecc41fa0)|
-|[**3**](https://docs.google.com/presentation/d/1KCRiROnCJz9SVlzYxuILaqeGPYgKgoHyMw61zm2ARBQ/edit#slide=id.g24c7339d71_0_167)|45| Add elements to an array by using .push() and get the number of elements in the array by using .length. |[User/password login and greeting](http://jsbin.com/turazo/edit?html,js,output)|
-|[**4**](https://docs.google.com/presentation/d/1S4ibPtGncmFvqCNB7uifWLfJTlLxpLEqJfva3XTFgfg/edit#slide=id.g1d0118cf2a_0_406)|45| Iterate over the items in an array using a for loop. |[User/password login and greeting](http://jsbin.com/turazo/edit?html,js,output)|
-|[**Project 1**](https://docs.google.com/presentation/d/1lUVkzvFgTDvZ9FdykQOODJEryiAm6HGFyebt5KYRUWU/edit#slide=id.g1d0118cf2a_0_406)|45x3| Use arrays and loops to build a photo gallery of two rival things.|[Password Guesser](https://docs.google.com/presentation/d/1MsaeSb4gYRNCV_L0Au_ovBnECjpqh4TxsBoYBPswzHw/edit#slide=id.g1b32623398_0_0)|
+|[**1**](https://docs.google.com/presentation/d/1sHwBT7XWtX9y7iGeJzEtGmbaRMySW-Z1OlQ7T16cNPw/edit#slide=id.g3d072d6db7_0_79)|45| Coders will be able to break long sections of code in to smaller, easy to understand pieces. |N/A|
+|[**2**](https://docs.google.com/presentation/d/1d56mDl5ejCwjV2olyUZb744qarMwuF1tWK8OueiSHl4/edit#slide=id.g3d07f62913_0_127)|45| Coders will be able to write their own function declarations to improvie code organization. |N/A|
+|[**3**](https://docs.google.com/presentation/d/1ugVlFOojy0CjSVVrRvItJw2oK5GUIBQ0FChLSWCyDnk/edit#slide=id.g3d060571d2_0_100)|45| Coders will be able to use functions to reduce duplication in their code. |N/A|
+|**Project 1**()|45x2||N/A|
 
+----
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum18-19/wiki">Contribute to the Wiki</a> </h3>
 
-
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfx0wkLyw_jSOhWR2yY8GTR8TV2NXYZc40us7aPHnl9bO6WAQ/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/1.-Foundations#unit-9-conditionals">Contribute to the Wiki</a></h3> 
-
-
+----
