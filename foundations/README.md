@@ -30,9 +30,8 @@ Pacing Calendar (Year 1)
 | [**End-of-Year Wrap Up**](units/EOY_Review_Unit) | 3 lessons |<ul> <li> Review key concepts learned over the course of the year.</li> <li> Demonstrate their HTML, CSS, and JQuery knowledge through an End-of-Year HackerRank Challenge. </li><li> Complete an end-of-year survey to reflect on their ScriptEd experience and share feedback. </li> </ul>|
 | [**Extension Unit: Animations and Collisions**](units/unit12) | 2 lessons <br> 1 project  |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
 ----
-## Wiki
 
-* Click [here](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/1.-Foundations#foundations-course-resources) for additional resources and activities.
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum18-19/wiki">Contribute to the Wiki</a> </h3>
 
 ----
 ## School Teacher Resources
