@@ -1,16 +1,15 @@
-# Unit 9: Functions
+# Unit 7: Conditionals
 
 
 
 
 |Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
-|[**1**](https://docs.google.com/presentation/d/1sHwBT7XWtX9y7iGeJzEtGmbaRMySW-Z1OlQ7T16cNPw/edit#slide=id.g3d072d6db7_0_79)|45| Coders will be able to break long sections of code in to smaller, easy to understand pieces. |N/A|
-|[**2**](https://docs.google.com/presentation/d/1d56mDl5ejCwjV2olyUZb744qarMwuF1tWK8OueiSHl4/edit#slide=id.g3d07f62913_0_127)|45| Coders will be able to write their own function declarations to improvie code organization. |N/A|
-|[**3**](https://docs.google.com/presentation/d/1ugVlFOojy0CjSVVrRvItJw2oK5GUIBQ0FChLSWCyDnk/edit#slide=id.g3d060571d2_0_100)|45| Coders will be able to use functions to reduce duplication in their code. |N/A|
-|**Project 1**()|45x2||N/A|
+|[**1**](https://docs.google.com/presentation/d/1MJwu9oNQTHt25dDAhX98vEqWfbRHs1hmcLyOUt1CDWQ/edit#slide=id.g1d0118cf2a_0_406)|45| Create basic conditional statements.|N/A|
+|[**2**](https://docs.google.com/presentation/d/15eZYA0zMnIOaEWeRVF2T4MH21yLGP0oqYP0SsKc4M3s/edit#slide=id.g1d0118cf2a_0_406)|45|Create conditional statements with multiple conditions using else-if.|N/A|
+|[**3**](https://docs.google.com/presentation/d/1VNCBVMUvVeHjuJtQhVIpWgY1ZFVoFd1N810SirI3gXM/edit#slide=id.g1e7984eb61_0_0)|45| Identify, evaluate and constuct compound conditional statements.|N/A|
+|[**Project 1**](https://docs.google.com/presentation/d/1-pqQgaqHYFHduV4jS1zzSrsC-k_vV1uohnHdR6CA4q0/edit#slide=id.g3d6c1e5ab7_0_0)|45x2|Use conditional statements to create a character quiz.|[Calculator](https://github.com/ScriptEdcurriculum/curriculum2016/tree/master/year1/units/unit10/projects/project2)|
 
-----
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum18-19/wiki">Contribute to the Wiki</a> </h3>
 
-----
+
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfx0wkLyw_jSOhWR2yY8GTR8TV2NXYZc40us7aPHnl9bO6WAQ/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/1.-Foundations#unit-8-javascript-functions-2">Contribute to the Wiki</a></h3> 
