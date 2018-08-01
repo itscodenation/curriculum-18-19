@@ -2,7 +2,7 @@
 
 ## Overview
 **Note: Unlike all other units, this unit is meant to only cover 2 class sessions.**
--In this unit, coders are introduced to objects through Popcode exercises, and a Jeopardy game. They are introduced to the unit project on Day 2. After the introduction, they will spend time planning their project and then spend the rest of their time completing it. 
+<br>In this unit, coders are introduced to objects through Popcode exercises, and a Jeopardy game. They are introduced to the unit project on Day 2. After the introduction, they will spend time planning their project and then spend the rest of their time completing it. 
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|
