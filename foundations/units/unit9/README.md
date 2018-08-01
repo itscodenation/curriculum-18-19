@@ -3,7 +3,7 @@
 
 
 
-|Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Additional Resources|
+|Lesson|Minutes|Objectives <br> *Coders will ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1sHwBT7XWtX9y7iGeJzEtGmbaRMySW-Z1OlQ7T16cNPw/edit#slide=id.g3d072d6db7_0_79)|45| Coders will be able to break long sections of code in to smaller, easy to understand pieces. |N/A|
 |[**2**](https://docs.google.com/presentation/d/1d56mDl5ejCwjV2olyUZb744qarMwuF1tWK8OueiSHl4/edit#slide=id.g3d07f62913_0_127)|45| Coders will be able to write their own function declarations to improvie code organization. |N/A|
