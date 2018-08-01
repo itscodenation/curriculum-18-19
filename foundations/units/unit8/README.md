@@ -1,6 +1,6 @@
 # Unit 8: Arrays and Loops
 
-|Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Additional Resources|
+|Lesson|Minutes|Objectives <br> *Coders will ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1OV5SnWolQC3m48xlKkGvIH9zm7EULHjmvE5BoxtZrLo/edit#slide=id.g3c033d7c63_0_0)|45| Create an array and retrieve an array element using the index.  |N/A|
 |[**2**](https://docs.google.com/presentation/d/1AJEv5aRDvINIPo93EcPy35bXg98fC9ZzSDKflD2HLJ4/edit#slide=id.g1d0118cf2a_0_406)|45| Create forEach loops in JavaScript in order to iterate over an array. |N/A|
