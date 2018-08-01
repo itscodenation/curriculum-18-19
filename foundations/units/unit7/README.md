@@ -3,7 +3,7 @@
 
 
 
-|Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Additional Resources|
+|Lesson|Minutes|Objectives <br> *Coders will ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1MJwu9oNQTHt25dDAhX98vEqWfbRHs1hmcLyOUt1CDWQ/edit#slide=id.g1d0118cf2a_0_406)|45| Create basic conditional statements.|[If/Else Practice](https://popcode.org/?gist=a9c3336d96e106394037e522ecc41fa0)|
 |[**2**](https://docs.google.com/presentation/d/15eZYA0zMnIOaEWeRVF2T4MH21yLGP0oqYP0SsKc4M3s/edit#slide=id.g1d0118cf2a_0_406)|45|Create conditional statements with multiple conditions using else-if.|[Class Year](https://popcode.org/?snapshot=d14787b9-68c5-489a-ae20-a74d93d75b92)|
