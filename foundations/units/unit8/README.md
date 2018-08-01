@@ -5,7 +5,7 @@
 |[**1**](https://docs.google.com/presentation/d/1OV5SnWolQC3m48xlKkGvIH9zm7EULHjmvE5BoxtZrLo/edit#slide=id.g3c033d7c63_0_0)|45| Create an array and retrieve an array element using the index.  |N/A|
 |[**2**](https://docs.google.com/presentation/d/1AJEv5aRDvINIPo93EcPy35bXg98fC9ZzSDKflD2HLJ4/edit#slide=id.g1d0118cf2a_0_406)|45| Create forEach loops in JavaScript in order to iterate over an array. |N/A|
 |[**3**](https://docs.google.com/presentation/d/1KCRiROnCJz9SVlzYxuILaqeGPYgKgoHyMw61zm2ARBQ/edit#slide=id.g24c7339d71_0_167)|45| Add elements to an array by using .push() and get the number of elements in the array by using .length. |N/A|
-|[**Project 1**](https://docs.google.com/presentation/d/1lUVkzvFgTDvZ9FdykQOODJEryiAm6HGFyebt5KYRUWU/edit#slide=id.g1d0118cf2a_0_406)|45x3| Use arrays and loops to build a photo gallery of two rival things.|N/A|
+|[**Project 1**](https://docs.google.com/presentation/d/1lUVkzvFgTDvZ9FdykQOODJEryiAm6HGFyebt5KYRUWU/edit#slide=id.g1d0118cf2a_0_406)|45x3| Use forEach loops to iterate over arrays in order to create live shopping carts.|N/A|
 
 
 
