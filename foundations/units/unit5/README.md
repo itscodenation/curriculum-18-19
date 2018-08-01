@@ -6,7 +6,7 @@
 
 
 
-|Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Additional Resources|
+|Lesson|Minutes|Objectives <br> *Coders will ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1xKW9ImX2ToninRVQP83Y2vxs23D2DnLKZXVEruDzt3o/edit)|45| Use jQuery to select, show, and hide HTML elements. |[Interactive jQuery Reference Table](https://popcode.org/?snapshot=d5af617f-c1a1-45dd-a69f-5ca87da21637)|
 |[**2**](https://docs.google.com/presentation/d/1AiT3rUaZg4NzjB-ycSKTtibEeTr1qYYIr2WF34jJlGo/edit)|45| Use jQuery actions to make HTML elements toggle, slide, and fade. |[Mario Mini JQuery Review](https://popcode.org/?snapshot=ac7317d8-acf8-4e95-804c-65910faf036a)|
