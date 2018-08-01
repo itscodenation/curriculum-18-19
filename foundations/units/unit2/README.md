@@ -1,6 +1,6 @@
 # Unit 2: CSS
 
-|Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Additional Resources|
+|Lesson|Minutes|Objectives <br> *Coders will ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1S4oqbp3mKk2e9P_T04Qq0KzMGmNDbKps4Ssa7AFHvqI/edit)|45| Select an HTML element and change its style using CSS. |[CSS Poetry](https://popcode.org/?gist=625332ea165a4d9fdf29f1e1cb638cd2)|
 |[**2**](https://docs.google.com/presentation/d/1KkRqKT11M1yuars4OivffA4zuBLqlMw8AXAABLKdj8s/edit)|45| Style a page using CSS properties and values. |[Simpson CSS Practice](https://docs.google.com/presentation/d/1qW1aBLYlE6iJeokh6R5_eqLr5i0pIzWJhKuZzMOkHHw/edit#slide=id.g12ee5b58a7_0_5)<br><br>[CSS Zen Garden:](https://www.csszengarden.com)<br> [Sumbit your own!](http://www.mezzoblue.com/zengarden/submit/)| 
