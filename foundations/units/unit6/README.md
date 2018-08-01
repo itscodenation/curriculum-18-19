@@ -4,7 +4,7 @@
 
 
 
-|Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Additional Resources|
+|Lesson|Minutes|Objectives <br> *Coders will ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1Y8QpU7fJ7z2Yv0yvYBMktHcojrxzO7J4wpePOWlIPOM/edit)|45| Create a new variable, store information in it, and read its value. |N/A|
 |[**2**](https://docs.google.com/presentation/d/1MX3BJmvKiHI2hcpvOPTwxCs0Ng35T0mcPPscAAhdeCQ/edit)|45| Identify strings and numbers as value types and differentiate between them. |N/A|
