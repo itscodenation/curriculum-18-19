@@ -5,7 +5,7 @@
 
 
 
-|Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Additional Resources|
+|Lesson|Minutes|Objectives <br> *Coders will ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1Shq5aEZuO6h84hl3vCLVhakKWuqw_P4JQfM9-6cbUPw/edit)|45| Use box model (padding, border, and margin) to manipulate the spacing of elements on a page.|[Box Model Tool](https://popcode.org/?snapshot=29869828-08e1-443f-9648-8dcf5d88e10d)<br><br>[Box Model Lesson 2](https://docs.google.com/presentation/d/14XyZZQKa_j6e2NQTyd3vYLzAh6wrANohWPsx-AL3YM0/edit#slide=id.g1f7d30a700_0_0)|
 |[**2**](https://docs.google.com/presentation/d/1CZIqQUrr-882DNND-iTzsxyMCf_su6p_fmzlrnaEpIY/edit)|45| Organize their HTML using DIVs.|[Flexbox Playground](https://codepen.io/osublake/full/dMLQJr?utm_source=frontendfocus&utm_medium=email)|
