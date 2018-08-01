@@ -1,5 +1,5 @@
 # Unit 1: HTML
-|Lesson|Minutes|Objectives <br> *Coders will be able to ...*|Additional Resources|
+|Lesson|Minutes|Objectives <br> *Coders will ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1iKh3Rg0uAVKg_g81fbAvkgjok9AZ_mH8TKibdUU8EB0/edit)|45| Use correct syntax to create an an opening and a closing HTML tag for simple HTML elements. |N/A|
 |[**2**](https://docs.google.com/presentation/d/1_VAGhNfZhzMtk8HWzAzcjdwuIjb7dGP5X4ILeb1dOQQ/edit)|45|Use correct syntax to create simple HTML elements. |[HTML CodeLibs](https://popcode.org/?snapshot=e472dd10-5ff3-4e29-9f0d-e0de0c405c44)|
