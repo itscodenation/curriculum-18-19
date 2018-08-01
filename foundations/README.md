@@ -13,7 +13,7 @@ Pacing Calendar (Year 1)
 
 ## Scope and Sequence
 
-| Unit | Overview | Objectives <br> *Coders will be able to...*| 
+| Unit | Overview | Objectives <br> *Coders will...*| 
 |:--------|:---:|:---------|
 | [**0: Routines**](units/unit0) | 3 lessons| <ul> <li> Identify two things they are excited to learn in ScriptEd and be able to name their classmates and teachers.</li> <li> Navigate the Popcode coding environment. </li> <li> Navigate Google Classroom, create a Github account to share their work, and complete the intake form. </li> </ul>|
 | [**1: HTML**](units/unit1) | 5 lessons <br>|<ul> <li> Use correct syntax to create an an opening and a closing HTML tag.</li> <li> Use correct syntax to create simple HTML elements. </li> <li> Nest HTML elements including ordered and unordered lists. </li></li> <li> Create HTML elements with attributes to add links to their pages. </li><li> Create HTML elements with attributes to add images to their pages. </li></ul>|
