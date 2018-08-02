@@ -12,7 +12,7 @@
 |[**Project 1**](https://docs.google.com/presentation/d/1cusYVTmtEv81g1CRkbVkroAghlbfdJN6iCqLUDAaBMQ/edit)|45| Use variables and operators to create a website that predicts the future. |[Kim and Kanye MadLibs](https://popcode.org/?snapshot=87167520-49f0-4a24-a4e8-626e35650b65)|
 
 ----
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum18-19/wiki">Contribute to the Wiki</a> </h3>
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum18-19/wiki">Check Out the Wiki</a> </h3>
 
 ----
 
