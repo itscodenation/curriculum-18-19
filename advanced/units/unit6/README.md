@@ -11,6 +11,6 @@ In this unit, coders will create a Giphy App. The Giphy App will take a search t
 |[**3**](https://docs.google.com/presentation/d/1MouviNGwiN8KCjo306p6cQfgY6uND0MVVLxMXlgEp0A/edit#slide=id.g3a6039558f_0_0)| <li> Choose from the extension list to customize their projects</li> |
 
 ----
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum18-19/wiki">Contribute to the Wiki</a> </h3>
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum18-19/wiki">Check Out the Wiki</a> </h3>
 
 ----
