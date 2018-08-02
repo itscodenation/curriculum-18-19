@@ -30,7 +30,7 @@ Pacing Calendar (Year 1)
 | [**Extension Unit: Animations and Collisions**](units/unit12) | 2 lessons <br> 1 project  |<ul> <li> Explain the structure of an HTML webpage.</li> <li> Create a webpage that contains a head and a body. </li> </ul>|
 ----
 
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum18-19/wiki">Contribute to the Wiki</a> </h3>
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum18-19/wiki">Check Out the Wiki</a> </h3>
 
 ----
 ## School Teacher Resources
