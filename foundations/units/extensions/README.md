@@ -8,11 +8,11 @@
 
 |Lesson|Minutes|Objectives <br> *Coders will ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
-|[**1**](https://docs.google.com/presentation/d/1xKW9ImX2ToninRVQP83Y2vxs23D2DnLKZXVEruDzt3o/edit)|45| Use jQuery to select, show, and hide HTML elements. |N/A|
-|[**2**](https://docs.google.com/presentation/d/1AiT3rUaZg4NzjB-ycSKTtibEeTr1qYYIr2WF34jJlGo/edit)|45| Use jQuery actions to make HTML elements toggle, slide, and fade. |N/A|
-|[**3**](https://docs.google.com/presentation/d/1o9cAvFNZjtrVyw3jH4rc9IcUarf3vhbMhu4eBhvxQpY/edit)|45| Use jQuery actions that take one or more arguments, including .text(), and .css(), when a button is clicked. |N/A|
-|[**4**](https://docs.google.com/presentation/d/1zREQP-Li8ju7R-193k0MnO4KK7254bATC2-UjsBHpIE/edit)|45| Write event handlers that allow the page to respond when a user interacts with it. |N/A|
-|[**Project**](https://docs.google.com/presentation/d/14RBOuEtU0N8f14tvEnnxxzJ4Ae8W5tx6ABMrEklnxEY/edit)|45x2| Use jQuery actions to build an interactive treasure hunt website. |N/A|
+|[**1**](https://drive.google.com/open?id=1GgPDegMrRgZKDDgKiXtG_Mi8q1l98rn-OfIZUhM4kt0)|45| Use the keydown() event handler and .which to make an action occur on the web page when a specific key is pressed. |N/A|
+|[**2**](https://drive.google.com/open?id=1NodL2iFywnDoVYm-Jj0-M9glNE2rzFwx09CZlZ-ZU5A)|45| Use the .offset property to move elements on the screen.|N/A|
+|[**3**](https://drive.google.com/open?id=1KAvJK-MuSZZwv9zJMT_Jjm1LW3afeXgpD572-RVQ8c8)|45|Use the .css() action to move an element on the page when a key is pressed.|N/A|
+|[**4**](https://drive.google.com/open?id=1M_BdQgpWWL4KoFZCR8Zdl85a0J6SkpgwBDegZudygUA)|45| Write a function that checks when two elements collide.|N/A|
+|[**Project**](https://drive.google.com/open?id=1K59Xd9JByYCMR_lAoH5HcwmKiJBKEamtWORee-5GwvQ)|45x2| Build a game that uses animations and tests collisions. |N/A|
 
 
 
