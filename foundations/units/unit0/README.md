@@ -1,5 +1,5 @@
 # Unit 0: Routines
-|Lesson|Minutes|Objectives <br> *Coders will...*|Additional Resources|
+|Lesson|Minutes|Objectives <br> *Coders will ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
 |[**1**](https://docs.google.com/presentation/d/1kMPeFzEKDjG_EmWg4rQvqpi0pKBSe3r8CmzcvdX-l-c/edit)|45| Identify two things they are excited to learn in ScriptEd and be able to name their classmates and teachers.  |N/A|
 |[**2**](https://docs.google.com/presentation/d/108pEQLvRWS2K1feUDO0HxapxZ30d_eyTw1pQ0414Y0s/edit)|45|Navigate the Popcode coding environment. |N/A|
