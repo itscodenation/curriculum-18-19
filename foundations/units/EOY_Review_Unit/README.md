@@ -1,6 +1,6 @@
 # End-of-Year Wrap Up
 
-|Lesson|Minutes|Objectives <br> *Coders will...*|Additional Resources|
+|Lesson|Minutes|Objectives <br> *Coders will ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
 |[**1**]()|45| Complete an end-of-year survey to reflect on their ScriptEd experience and share feedback.|N/A|
 |[**2**](https://docs.google.com/presentation/d/1L-7hgHSmHw1v-4Yzq9JVqdrkU9tE2-75r7o-P-R4YMY/edit#slide=id.g1d0118cf2a_0_406)|45| Prepare for their upcoming end-of-year challenge by competing in jeopardy. Jeopardy will test their knowledge of HTML, CSS,jQuery, and JavaScript.|N/A|
