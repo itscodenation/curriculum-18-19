@@ -6,7 +6,7 @@
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|
 |:-------:|-------|
-|[**1**]()|<li>Complete the Mid-Year Survey</li> <li>Review HTML CSS and Javascript skills</li>  <li>Naviagte the HackerRank platform</li> <li>Complete the Mid-Year Hackerrank Challenge</li> |
+|[**1**](https://docs.google.com/presentation/d/1LoWDjn62d5nMJ1glplmRn27XTOq9yPxHJ22pPinqT5c/edit#slide=id.g36f3732b7b_0_1)|<li>Complete the Mid-Year Survey</li> <li>Review HTML CSS and Javascript skills</li>  <li>Naviagte the HackerRank platform</li> <li>Complete the Mid-Year Hackerrank Challenge</li> |
 
 
 ----
