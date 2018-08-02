@@ -10,6 +10,6 @@ In this unit, coders will close out the year with a culminating HackerRank chall
 |[**2**](https://drive.google.com/open?id=1jULo_oJsiAQRnbEHT_iPggy5JFwA9GunLgzQSsWeWSI)| <li> Present their final projects</li> <li> Celebrate their accomplishments this year </li>|
 
 ----
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum18-19/wiki">Contribute to the Wiki</a> </h3>
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum18-19/wiki">Check Out the Wiki</a> </h3>
 
 ----
