@@ -1,4 +1,4 @@
-# Unit 6: Variables, Value Types, Operators, input.val
+# Unit 6: Variables
 
 
 
