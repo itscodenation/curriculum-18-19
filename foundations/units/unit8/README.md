@@ -1,4 +1,4 @@
-# Unit 8: Arrays and For Each
+# Unit 8: Arrays and Loops
 
 |Lesson|Minutes|Objectives <br> *Coders will ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
