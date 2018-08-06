@@ -1,4 +1,4 @@
-# End-of-Year Wrap Up
+# End-of-Year Review
 
 |Lesson|Minutes|Objectives <br> *Coders will ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
