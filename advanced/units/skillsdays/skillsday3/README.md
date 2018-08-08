@@ -1,7 +1,8 @@
 # Skills Day 3:
 
 ## Overview
-The Professional Skills days are a time when coders are able to demonstrate their technical and professional progress to Program Managers and Volunteers. They'll  also have time to update their portfolios and participate in a team building activity. Professional Skills Days will happen 3 times throughout the advanced curriculum. This is a great opportunity to invite other people from your company to see what students have been working on and help guide them through whiteboarding exercises.
+On Professional Skills days, coders will demonstrate their technical and professional skills progress, update their portfolios, and participate in a team building activity. This is a great opportunity to invite other people from your company to see what students have been working on and help guide them through whiteboarding exercises.
+
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|
 |:-------:|-------|
