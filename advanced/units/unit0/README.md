@@ -1,7 +1,7 @@
 # Unit 0:
 
 ## Overview
-In this unit, coders will get to know their company, their instructors and their classmates. Coders will review imporant routines, procedures and documents. Coders will complete a beginning of the year challenge to review HTML, CSS, and Javascript from the Foundations course.
+In this unit, coders will get to know their company, their instructors and their classmates. Coders will review important routines, procedures and documents. Coders will complete a beginning of the year challenge to review HTML, CSS, and Javascript from the Foundations course.
 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|
