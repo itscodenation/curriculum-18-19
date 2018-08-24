@@ -1,11 +1,10 @@
 # Studio Curriculum, 18-19
 
-## In Progress
+The ScriptEd Studio Curriculum is currently under construction. Please check back soon for updates.
 
 ----
-## Wiki
 
-* Click [here](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/2:-Studio) for additional resources and activities.
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum18-19/wiki">Check Out the Wiki</a> </h3>
 
 ----
 **Curriculum content contributed by**: 
