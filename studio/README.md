@@ -1,7 +1,7 @@
 # Studio Curriculum, 18-19
 
 ## Pacing Guide
-
+![Imgur](studio-pacing-18-19.png)
 ## Scope and Sequence
 
 | Unit  | Sessions | Overview|
