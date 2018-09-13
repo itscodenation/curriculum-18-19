@@ -7,7 +7,7 @@ In this unit, coders will get to know their company, their instructors and their
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|
 |:-------:|-------|
-|[**1**](https://docs.google.com/presentation/d/1ttr-abDo6xTX9pKlvnerRio-XTXcXgWjzcGLKdUZanY/edit#slide=id.g363143c749_0_6)| Get to know each other!|
+|[**1**](https://docs.google.com/presentation/d/1ttr-abDo6xTX9pKlvnerRio-XTXcXgWjzcGLKdUZanY/edit#slide=id.g363143c749_0_6)| <li> Describe the Advanced class program and its expections</li> <li>Navigate the DSD, Slack, and Repl.it</li><li>Complete the Beginning of Year Coding Challenge</li>|
 
 ----
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum18-19/wiki">Check Out the Wiki</a> </h3>
