@@ -1,5 +1,7 @@
 # Studio Curriculum, 18-19
 
+## Pacing Guide
+
 ## Scope and Sequence
 
 | Unit  | Sessions | Overview|
