@@ -1,7 +1,7 @@
 # Unit 0
 
 ## Overview
-In this unit, coders will work on team building and go over daily routines and procedures. Coders will complete a scavenger hunt to review HTML, CSS, Javascript from Advanced.
+In this unit, coders will get to know their company, their instructors and their classmates. Coders will review important routines, procedures and documents. Coders will complete a beginning of year challenge to review HTML, CSS, and Javascript from the Foundations and Advanced courses.
 
 
 ## Sessions 
