@@ -7,7 +7,7 @@
 | Unit  | Sessions | Overview|
 |:-------|:-------:|------|
 | [**0: Welcome**](units/unit0) | 1 | In this unit, coders will get to know their company, their instructors and their classmates.    Coders will review important routines, procedures and documents. Coders will complete a beginning of year challenge to review HTML, CSS, and Javascript from the Foundations and Advanced courses.|
-| [**1: Project-1**](units/unit1) | 9 | This unit is currently under construction. Please check back soon for updates.|
+| [**1: Project1**](units/unit1) | 9 | This unit is currently under construction. Please check back soon for updates.|
 | [**2: Project-2**](units/unit2) | 9 | This unit is currently under construction. Please check back soon for updates.|
 | [**3: Project-3**](units/unit3) | 9 | This unit is currently under construction. Please check back soon for updates.|
 
