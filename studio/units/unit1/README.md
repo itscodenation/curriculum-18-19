@@ -7,7 +7,7 @@ In this unit, coders will work in pairs to build a project using HTML, CSS, JS a
 |Session Slides|*Coders will be able to ...*|
 |:-------:|-------|
 |[**1**](https://docs.google.com/presentation/d/1-wm2WOA9NE5Lddm-03Z2JbSPyyPtLOqw3kK9LDrKikI/edit#slide=id.g41dcdb4b32_0_0)| <li> Setup Project </li> ||
-|[**2**]()| <li> Setting up firebase </li> <li> Accessing Data </li> ||
+|[**2**](https://docs.google.com/presentation/d/1BO_rBV-Gn_KAaYYVZLsupjhA7dEChUjkoCnFw0LrGYY/edit)| <li> Setting up firebase </li> <li> Accessing Data </li> ||
 |[**3**]()|| Project Work Day|
 |[**4**]()|| Project Work Day|
 |[**5**]()|| Project Work Day|
