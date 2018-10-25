@@ -12,7 +12,7 @@ This unit is currently under construction. Please check back soon for updates.
 |**4**| <li> TBD </li>||
 |**5**| <li> TBD </li>||
 |**6**| <li> TBD </li>||
-|**7**|| <li> Project Work Day </li> |
+|**7**| <li> Project Work Day </li> |
 |**8**| <li> Prepare for and practice a project presentation </li>|
 |**Presentation Day**| <li> Present projects and celebrate achievements </li>|
 
