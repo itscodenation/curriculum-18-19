@@ -12,7 +12,7 @@ In this unit, coders will work in pairs to build a project using HTML, CSS, JS a
 |[**4**](https://docs.google.com/presentation/d/1cexLZdVkgut_ZS5y5dE6lSDxJhHsjI0MNFlsNBTT6jM/edit?usp=sharing)| <li> Create a data model to represent information and write data to a database </li>||
 |[**5**](https://docs.google.com/presentation/d/1FsdgR7Jxhtr0GznfjPi0D21LXmzv2TOFjJ4qT3ZKaGo/edit?usp=sharing)| <li> Use queries to access and perform basic Firebase I/O </li>||
 |[**6**](https://docs.google.com/presentation/d/1Z3mM1G4_BApqUZmmRRKyZit7wV33ejRADKSvBCwNDHc/edit?usp=sharing)| <li> Create an object using ES6 syntax </li>||
-|**7**|| <li> Project Work Day <li> |
+|**7**| <li> Project Work Day </li> |
 |**8**| <li> Prepare for and practice a project presentation </li>|
 |**Presentation Day**| <li> Present projects and celebrate achievements </li>|
 
