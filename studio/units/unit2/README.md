@@ -1,22 +1,22 @@
 # Unit 2
 
 ## Overview
-
-In this unit students will be introduced to concepts of server side development
-and specifically the Firebase platform. They will complete two codelabs that
-serves as an introduction to all the basic features Firebase offers, using a
-Chat application as an example.
-
-## Important Links
-| Example Project | Project Planning |  Starter Code | Solution Code  | Rubric | Extra Resources |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|[02 EP]()|[02 PP]() |[02 STC]() |[02 SLC](https://github.com/firebase/friendlychat-web) | [02 RB]() | [02 Wiki]()|
+This unit is currently under construction. Please check back soon for updates.
 
 ## Sessions 
-|Session Slides|*Coders will be able to ...*|Homework|
-|:-------:|-------|:-------|
-|[**1**](https://docs.google.com/presentation/d/1m74bHyWMH1x8MROgSYfx8MNEm5n3FJK96W2H_N-MS3U/edit#slide=id.g1e220fa94a_0_26)| |[Firebase Code Lab](https://codelabs.developers.google.com/codelabs/firebase-web/#2)||
-|[**2**](https://docs.google.com/presentation/d/1m74bHyWMH1x8MROgSYfx8MNEm5n3FJK96W2H_N-MS3U/edit#slide=id.g1f587f6424_5_5)| |Firebase Code Lab||
-|[**3**](https://docs.google.com/presentation/d/1m74bHyWMH1x8MROgSYfx8MNEm5n3FJK96W2H_N-MS3U/edit#slide=id.g1e220fa94a_0_4)| |Firebase Code Lab||
+|Session Slides|*Coders will ...*|
+|:-------:|-------|
+|**1**| <li> Set up Project </li> ||
+|**2**| <li> TBD </li> ||
+|**3**|<li> TBD </li>||
+|**4**| <li> TBD </li>||
+|**5**| <li> TBD </li>||
+|**6**| <li> TBD </li>||
+|**7**|| <li> Project Work Day </li> |
+|**8**| <li> Prepare for and practice a project presentation </li>|
+|**Presentation Day**| <li> Present projects and celebrate achievements </li>|
 
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfz_Bouj3es20oVY-eS6ivdOSWcuideOEChKt5E2XVEFfdiIg/viewform">Submit Your Feedback!</a></h3>
+----
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum18-19/wiki">Check Out the Wiki</a> </h3>
+
+----
