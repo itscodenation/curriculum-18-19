@@ -9,7 +9,7 @@
 -----
 
 ScriptEd has changed its name to Code Nation
-<p align="center"> <img src="https://imgur.com/a/VB3hQoS" ></p>
+<p align="center"> <img src="https://i.imgur.com/GNxAMwu.png" ></p>
 
 
 For more information about ScriptEd, please visit us at <a href="https://www.scripted.org">scripted.org</a>.
