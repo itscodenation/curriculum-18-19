@@ -41,7 +41,12 @@ Pacing Calendar (Year 1)
 
 **Curriculum content contributed by**: Dan Applegate, Matthew Brown, Vanessa Dean, Meghan Knoll, Sophat Sam, Scot Spinner, Tanya Trinkle, Jesse Wang, and Sarah Zinger
 
-For more information about ScriptEd, please visit us at [scripted.org](https://www.scripted.org). 
+<br>
+<p> <img src="https://i.imgur.com/lYodTLP.png?1" ></p>
+As of 10/31/2018, ScriptEd has changed its name to Code Nation.  Please bear with us as we make the transition!
+  
+For more information about Code Nation, please visit us at <a href="https://www.codenation.org">codenation.org</a>.
+<br>
 <br>
 ScriptEd Curriculum is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>. 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
