@@ -7,11 +7,10 @@
 |[Studio Course](studio)| The focus of this course is **Agency**. In this course, students will work with more advanced APIs, including Firebase.  They will also be introduced to front-end frameworks and learn the fundamentals of ReactJS.  Students will continue their professional development and increase their coding independence.|
 
 -----
-
-<p> <img src="https://i.imgur.com/lYodTLP.png?1" ></p>
-<p>As of 10/31/2018, ScriptEd has changed its name to Code Nation.  Please bear with us as we make the transition!</p>
-<p>For more information about Code Nation, please visit us at <a href="https://www.codenation.org">codenation.org</a>.</p>
 <br>
+<p> <img src="https://i.imgur.com/lYodTLP.png?1" ></p>
+As of 10/31/2018, ScriptEd has changed its name to Code Nation.  Please bear with us as we make the transition!
+For more information about Code Nation, please visit us at <a href="https://www.codenation.org">codenation.org</a>.
 <br>
 <br>
 ScriptEd Curriculum is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>. 
