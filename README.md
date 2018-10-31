@@ -8,6 +8,10 @@
 
 -----
 
+ScriptEd has changed its name to Code Nation
+<p align="center"> <img src="https://imgur.com/a/VB3hQoS" ></p>
+
+
 For more information about ScriptEd, please visit us at <a href="https://www.scripted.org">scripted.org</a>.
 <br>
 ScriptEd Curriculum is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>. 
