@@ -4,8 +4,8 @@
 |:-------:|:-------:|:-------|:-------|
 |[**1**]()|45| Nagivate HackerRank and review key HTML, CSS, and jQuery concepts. |[Review Jeopardy](https://docs.google.com/presentation/d/1R3-7fGxamtDVgjeS7oxjGUrwRMk6weSa6pEczrAJXY8/edit#slide=id.g1d0118cf2a_0_406)|
 |[**2**](https://docs.google.com/presentation/d/19o4kDNFIBuZ9FvIYVrzWUezzL1CQnTf456UN01HhIGI/edit#slide=id.g469d7f88be_0_6)|45| Demonstrate their HTML, CSS, and jQuery knowledge by collaborating to build an innovative web app |[School Website Rebuild](https://github.com/ScriptEdcurriculum/curriculum2016/tree/master/year1/units/unitReview/topics/topic3)|
-|[**3**](https://docs.google.com/presentation/d/19o4kDNFIBuZ9FvIYVrzWUezzL1CQnTf456UN01HhIGI/edit#slide=id.g46c73300a0_0_22)|45| Demonstrate their HTML, CSS, and jQuery knowledge by collaborating to build an innovative web app|[School Website Rebuild](https://github.com/ScriptEdcurriculum/curriculum2016/tree/master/year1/units/unitReview/topics/topic3)|
-|[**4**](https://docs.google.com/presentation/d/19o4kDNFIBuZ9FvIYVrzWUezzL1CQnTf456UN01HhIGI/edit#slide=id.g46c73300a0_0_54)|45| Demonstrate their HTML, CSS, and jQuery knowledge by collaborating to build an innovative web app |[School Website Rebuild](https://github.com/ScriptEdcurriculum/curriculum2016/tree/master/year1/units/unitReview/topics/topic3)|
+|[**3**](https://docs.google.com/presentation/d/19o4kDNFIBuZ9FvIYVrzWUezzL1CQnTf456UN01HhIGI/edit#slide=id.g46c73300a0_0_22)|45| Demonstrate their HTML, CSS, and jQuery knowledge by collaborating to build an innovative web app|(https://github.com/ScriptEdcurriculum/curriculum2016/tree/master/year1/units/unitReview/topics/topic3)|
+|[**4**](https://docs.google.com/presentation/d/19o4kDNFIBuZ9FvIYVrzWUezzL1CQnTf456UN01HhIGI/edit#slide=id.g46c73300a0_0_54)|45| Demonstrate their HTML, CSS, and jQuery knowledge by collaborating to build an innovative web app |(https://github.com/ScriptEdcurriculum/curriculum2016/tree/master/year1/units/unitReview/topics/topic3)|
 
 
 ----
