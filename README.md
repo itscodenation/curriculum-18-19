@@ -8,7 +8,7 @@
 
 -----
 <br>
-<p> <img src="https://i.imgur.com/lYodTLP.png?1" ></p>
+<p align="center"> <img src="https://i.imgur.com/lYodTLP.png?1" ></p>
 As of 10/31/2018, ScriptEd has changed its name to Code Nation.  Please bear with us as we make the transition!
   
 For more information about Code Nation, please visit us at <a href="https://www.codenation.org">codenation.org</a>.
