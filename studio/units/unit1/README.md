@@ -14,7 +14,7 @@ In this unit, coders will work in pairs to build a project using HTML, CSS, JS a
 |[**6**](https://docs.google.com/presentation/d/1Z3mM1G4_BApqUZmmRRKyZit7wV33ejRADKSvBCwNDHc/edit?usp=sharing)| <li> Create an object using ES6 syntax </li>||
 |**7**| <li> Project Work Day </li> |
 |**8**| <li> Prepare for and practice a project presentation </li>|
-|**Presentation Day**|(https://docs.google.com/presentation/d/1zGSLvX66m73uaprM0Pps8QxEzIgg8NoXPkeJGHGz-_c/edit?usp=sharing) <li> Present projects and celebrate achievements </li>|
+|[**Presentation Day**](https://docs.google.com/presentation/d/1zGSLvX66m73uaprM0Pps8QxEzIgg8NoXPkeJGHGz-_c/edit?usp=sharing)| <li> Present projects and celebrate achievements </li>|
 
 ----
 <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum18-19/wiki">Check Out the Wiki</a> </h3>
