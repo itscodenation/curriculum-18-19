@@ -3,7 +3,7 @@
 |Lesson|Minutes|Objectives <br> *Coders will ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
 |[**1**]()|45| Complete an end-of-year survey to reflect on their ScriptEd experience and share feedback.|N/A|
-|[**2**(https://docs.google.com/presentation/d/1E1Cq71FR5_eKvAYoy01eUGCGXrHwrUGKuZO5c8yUO0c/edit#slide=id.g1d0118cf2a_0_406)|45| Prepare for their upcoming end-of-year challenge by competing in jeopardy. Jeopardy will test their knowledge of HTML, CSS,jQuery, and JavaScript.|N/A|
+|[**2**](https://docs.google.com/presentation/d/1E1Cq71FR5_eKvAYoy01eUGCGXrHwrUGKuZO5c8yUO0c/edit#slide=id.g1d0118cf2a_0_406)|45| Prepare for their upcoming end-of-year challenge by competing in jeopardy. Jeopardy will test their knowledge of HTML, CSS,jQuery, and JavaScript.|N/A|
 |[**3**]()|45| Demonstrate their HTML, CSS, jQuery, and JavaScript knowledge through the End oF Year Challenge.|N/A|
 
 
