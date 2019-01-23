@@ -12,8 +12,7 @@ In this unit, coders will work in pairs to build a project using HTML, CSS, JS a
 |[**4**](https://docs.google.com/presentation/d/1cexLZdVkgut_ZS5y5dE6lSDxJhHsjI0MNFlsNBTT6jM/edit?usp=sharing)| <li> Create data models using JSON to store in a Firebase database </li>||
 |[**5**](https://docs.google.com/presentation/d/1FsdgR7Jxhtr0GznfjPi0D21LXmzv2TOFjJ4qT3ZKaGo/edit?usp=sharing)| <li> Use queries to access and perform basic Firebase I/O </li>||
 |[**6**](https://docs.google.com/presentation/d/1Z3mM1G4_BApqUZmmRRKyZit7wV33ejRADKSvBCwNDHc/edit?usp=sharing)| <li> Create an object using ES6 syntax </li>||
-|[**7**](https://docs.google.com/presentation/d/1fDI8z040y_dtyCD3_NtDD9nQRcMpqkxYX1wg35Fj4W4/edit)| <li> Use the Firebase API to listen for updates to a Firebase database
- </li> |
+|[**7**](https://docs.google.com/presentation/d/1fDI8z040y_dtyCD3_NtDD9nQRcMpqkxYX1wg35Fj4W4/edit)| <li> Use the Firebase API to listen for updates to a Firebase database </li> |
 |[**8**](https://docs.google.com/presentation/d/1COEplIXfVnRwJaeRtkA0zPuP45hhnh0iluTVK27UiWI/edit)| <li> Prepare for and practice a project presentation </li>|
 |[**Presentation Day**](https://docs.google.com/presentation/d/1zGSLvX66m73uaprM0Pps8QxEzIgg8NoXPkeJGHGz-_c/edit?usp=sharing)| <li> Present projects and celebrate achievements </li>|
 
