@@ -1,7 +1,7 @@
 # Unit 2
 
 ## Overview
-This unit is currently under construction. Please check back soon for updates.
+In this unit, coders will work in pairs to build a project using HTML, CSS, React, and Firebase. As interns your task is to follow the specification to build out the front-end for the Kahoot style question game that displays a question and the possible answers, allows a user to choose answer and determine whether the are right or wrong. This project is intended to highlight some important aspects of goal setting and project management. The project will culminate in a final presentation.
 
 ## Sessions 
 |Session Slides|*Coders will ...*|
