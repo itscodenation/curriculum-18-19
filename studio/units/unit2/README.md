@@ -6,12 +6,12 @@ This unit is currently under construction. Please check back soon for updates.
 ## Sessions 
 |Session Slides|*Coders will ...*|
 |:-------:|-------|
-|**1**| <li> Set up Project </li> ||
-|**2**| <li> TBD </li> ||
-|**3**|<li> TBD </li>||
-|**4**| <li> TBD </li>||
-|**5**| <li> TBD </li>||
-|**6**| <li> TBD </li>||
+|[**1**](https://docs.google.com/presentation/d/1DvsnCeTnNnjoRrqzCj0FoBIx622QQHzZjd2NcnUbOao/edit)| <li> brainstorm, plan and setup project </li> ||
+|[**2**](https://docs.google.com/presentation/d/15t2P89_1zpNMOlwUuvPz6Bn9DSM_ciZDMRHWwdC5ygA/edit)| <li> create and call new React components </li> ||
+|[**3**](https://docs.google.com/presentation/d/1SKmkoy-I3C5G4rk0dFL2u0Nj0CjqC8J_nrtz-mkgbw0/edit#slide)|<li> pass down properties through components </li>||
+|**4**| <li> create and update application state </li>||
+|**5**| <li> create a component to react to a users input and update state  </li>||
+|**6**| <li> create a component that updates its display based on the application state  </li>||
 |**7**| <li> Project Work Day </li> |
 |**8**| <li> Prepare for and practice a project presentation </li>|
 |**Presentation Day**| <li> Present projects and celebrate achievements </li>|
