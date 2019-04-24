@@ -2,7 +2,7 @@
 
 |Lesson|Minutes|Objectives <br> *Coders will ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
-|[**1**]()|45| Complete an end-of-year survey to reflect on their Code Nation experience and share feedback.|N/A|
+|[**1**](https://docs.google.com/presentation/d/1qxwzypPGo2GDeBV0qvyTKzTYH8wNutKLPLScyrccc74/edit#slide=id.g1d0118cf2a_0_406)|45| Complete an end-of-year survey to reflect on their Code Nation experience and share feedback.|N/A|
 |[**2**](https://docs.google.com/presentation/d/1E1Cq71FR5_eKvAYoy01eUGCGXrHwrUGKuZO5c8yUO0c/edit#slide=id.g1d0118cf2a_0_406)|45| Celebrate their technical mastery and showcase exemplar projects.|N/A|
 
 
