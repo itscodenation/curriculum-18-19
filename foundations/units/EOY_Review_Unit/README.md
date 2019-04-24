@@ -1,4 +1,4 @@
-# End-of-Year Unit
+# End-of-Year Wrap-up Unit
 
 |Lesson|Minutes|Objectives <br> *Coders will ...*|Additional Resources|
 |:-------:|:-------:|:-------|:-------|
