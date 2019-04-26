@@ -2,15 +2,14 @@
 
 ## Scope and Sequence
 
-|Session Nam |Overview|
+|Session Name |Overview|
 |:-------:|:------:|
-| [**Welcome**](units/unit0) | In this unit, coders will get to know their company, their instructors and their classmates.    Coders will review important routines, procedures and documents. Coders will complete a beginning of year challenge to review HTML, CSS, and Javascript from the Foundations and Advanced courses.|
-| [**Project 1**](units/unit1) | In this unit, coders will work in pairs to build a project using HTML, CSS, JS and Firebase. Student will build and MVP for a project that takes in a user input, stores it in a database, then retrieves the data and displays it on the screen. This project is intended to highlight some important aspects of goal setting and project management. The project will culminate in a final presentation.|
-| [**Project 2**](units/unit2)| In this unit, coders will work in pairs to build a project using HTML, CSS, React, and Firebase. Coders will follow the specifications to build out the front-end for the Kahoot style question game that displays a question and the possible answers, allows a user to choose answer and determine whether the are right or wrong. This project is intended to highlight some important aspects of goal setting and project management. The project will culminate in a final presentation.|
-| **Project 3**| 9 | This unit is currently under construction. Please check back soon for updates.|
-
+| **Manager Meeting** | Upon completing the Initial Company Visit and Manager Meeting all students have practiced traveling to and from their place of employment, receive an overview of technologies that may be used for the internship (potentially scope of work), toured and become familiar with the office space, security procedures, dress code, daily hours and other components of company culture, begun to build rapport with their manager and relevant co-workers and participated in a preparation and debrief session with their internship coordinator. In order to meet this outcome, we'll need to find a way to ensure that intern managers show up to the meeting, decrease the complexity of scheduling, and create and share a targeted agenda for students to empower them to lead the experience.|
+| **Internship Bootcamp ** | Upon completing Internship Bootcamp, all students should have built community within their intern class, practiced technical, workplace experience and professional skills missing from our core programming but likely to be encountered during their internship experience, received and completed all relevant paperwork and internship materials, built rapport between internship coordinator and intern through a one-on-one check in., begun to build rapport with coordinator cohort, had a conversation with someone who has gone through the internship experience before to build a sense of confidence and self-belonging. As a team, we'll refine the professional, technical, and workplace readiness skills objectives in this experience. Financial literacy should also be a part of this experience instead of the mid-internship experience.|
+| **Mid-Internship Training 2** |  Upon completing Mid-internship training, students should have reflected on how their internship has gone so far with their internship coordinators and other students and should also be prepared to close out that internship. This should include preparing students to continue relationships outside of internships, reaffirming sense of belonging and confidence, preparing students to create and continue mentorships outside of the internship experience, beginning to prepare them for end-of-internship powerpoint presentations by having mid-internship presentations, updating resumes with this new experience and having an opportunity to build community among their fellow internship class.
+|
 ----
-<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> || <a href="https://github.com/ScriptEdcurriculum/curriculum18-19/wiki">Check Out the Wiki</a> </h3>
+<h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeLpI-m6UKvIxk97F8R1iidFRaYXJ3dfcUuIjx2Pz0WMfO1SA/viewform">Submit Your Feedback</a> 
 
 ----
 <br>
