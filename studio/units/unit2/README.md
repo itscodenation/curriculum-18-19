@@ -7,7 +7,7 @@ In this unit, coders will work in pairs to build a project using HTML, CSS, Reac
 |Session Slides|*Coders will ...*|
 |:-------:|-------|
 |[**1**](https://docs.google.com/presentation/d/1DvsnCeTnNnjoRrqzCj0FoBIx622QQHzZjd2NcnUbOao/edit)| <li> brainstorm, plan and setup project </li> ||
-|[**2**](https://docs.google.com/presentation/d/15t2P89_1zpNMOlwUuvPz6Bn9DSM_ciZDMRHWwdC5ygA/edit)| <li> create and call new React components </li> ||
+|[**2**](https://docs.google.com/presentation/d/1LEjNw4V8NEwS7QfRekcBB--R6MHh8fwJFITlW8MRSrw/edit)| <li> create and call new React components </li> ||
 |[**3**](https://docs.google.com/presentation/d/1Ge810AkV3_tTyP9sb5jThp3UJ_2nd4Is_zVN1_rP1AY/edit)| <li> pass down properties through components </li>||
 |[**4**](https://docs.google.com/presentation/d/1YORZ-PvImhJZUQ2424IJiKutofglKn95Gi-4gNN4isc/edit)| <li> create and update application state </li>||
 |[**5**](https://docs.google.com/presentation/d/18KY0iO6N7RUMVsy0guvonz0z-6225oUzeJlWACCsAZw/edit)| <li> create a component to react to a users input and update state  </li>||
